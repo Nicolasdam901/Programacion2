@@ -1,0 +1,133 @@
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\alumnoFI\source\repos\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\damel\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\alumnoFI\Desktop\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.AssemblyReference.cache
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.exe
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.deps.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.runtimeconfig.dev.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.AssemblyInfo.cs
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.csproj.CopyComplete
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\IUConsola\obj\Debug\netcoreapp3.1\IUConsola.genruntimeconfig.cache

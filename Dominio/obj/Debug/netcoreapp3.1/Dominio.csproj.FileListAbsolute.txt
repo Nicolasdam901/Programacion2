@@ -1,0 +1,106 @@
+C:\Users\alumnoFI\source\repos\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\source\repos\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\source\repos\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\source\repos\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\source\repos\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\source\repos\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\source\repos\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\source\repos\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\source\repos\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Figuras_ConHerenciaYPolimorfismo\Areas\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Desktop\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\ignag\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2 (1)\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles-Gomez\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2-Damelles-Gomez\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\damel\Desktop\Obligatorio-P2- Damelles\Obligatorio-P2-Damelles\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
